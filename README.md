@@ -49,6 +49,8 @@
 
 
     5) 마이페이지    <br>
+          <img width="1153" alt="스크린샷 2025-07-02 오후 1 46 00" src="https://github.com/user-attachments/assets/26dce450-1f3d-4e46-9821-93599c150d48" />
+
       <br>
         
 
